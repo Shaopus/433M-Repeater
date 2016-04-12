@@ -1,0 +1,1720 @@
+
+Map of Release\ts.sm8 from link file Release\ts.lkf - Tue Apr 12 15:01:47 2016
+
+
+                               --------
+                               Segments
+                               --------
+
+start 00008080 end 00008197 length   279 segment .const
+start 000081d1 end 00009875 length  5796 segment .text
+start 00000000 end 00000032 length    50 segment .bsct, initialized
+start 0000819f end 000081d1 length    50 segment .bsct, from
+start 00000032 end 00000071 length    63 segment .ubsct
+start 00000071 end 00000071 length     0 segment .bit
+start 00000071 end 00000071 length     0 segment .share
+start 00000100 end 00000100 length     0 segment .data
+start 00000100 end 00000100 length     0 segment .bss
+start 00000000 end 0000141e length  5150 segment .info.
+start 00008000 end 00008080 length   128 segment .const
+start 00008197 end 0000819f length     8 segment .init
+
+
+                               -------
+                               Modules
+                               -------
+
+D:\Program Files\COSMIC\CXSTM8_32K\Lib\crtsi0.sm8:
+start 000081d1 end 0000821c length    75 section .text
+start 00000100 end 00000100 length     0 section .bss
+start 00000032 end 00000032 length     0 section .ubsct
+start 00000000 end 0000002f length    47 section .info.
+
+Release\stm8l10x_awu.o:
+start 0000002f end 000000b5 length   134 section .info.
+start ******** end ******** length     0 section .const *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_beep.o:
+start 000000b5 end 0000013c length   135 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .const *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_clk.o:
+start 0000013c end 000001c2 length   134 section .info.
+start 00008080 end 00008084 length     4 section .const
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 0000821c end 00008232 length    22 section .text
+start 00008232 end 00008242 length    16 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start 00008242 end 0000827d length    59 section .text
+
+Release\stm8l10x_comp.o:
+start 000001c2 end 00000249 length   135 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_exti.o:
+start 00000249 end 000002d0 length   135 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_flash.o:
+start 000002d0 end 00000358 length   136 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_gpio.o:
+start 00000358 end 000003df length   135 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start 0000827d end 000082cb length    78 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 000082cb end 000082d2 length     7 section .text
+start 000082d2 end 000082da length     8 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 000082da end 000082e1 length     7 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start 000082e1 end 000082f7 length    22 section .text
+
+Release\stm8l10x_i2c.o:
+start 000003df end 00000465 length   134 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .const *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_irtim.o:
+start 00000465 end 000004ed length   136 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_itc.o:
+start 000004ed end 00000573 length   134 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .const *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_iwdg.o:
+start 00000573 end 000005fa length   135 section .info.
+start 000082f7 end 000082fb length     4 section .text
+start 000082fb end 000082ff length     4 section .text
+start 000082ff end 00008303 length     4 section .text
+start 00008303 end 00008308 length     5 section .text
+start 00008308 end 0000830d length     5 section .text
+
+Release\stm8l10x_rst.o:
+start 000005fa end 00000680 length   134 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_spi.o:
+start 00000680 end 00000706 length   134 section .info.
+start 0000830d end 0000831e length    17 section .text
+start 0000831e end 0000834a length    44 section .text
+start 0000834a end 00008357 length    13 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start 00008357 end 0000835b length     4 section .text
+start 0000835b end 0000835f length     4 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 0000835f end 0000836a length    11 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_tim2.o:
+start 00000706 end 0000078d length   135 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_tim3.o:
+start 0000078d end 00000814 length   135 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_tim4.o:
+start 00000814 end 0000089b length   135 section .info.
+start 0000836a end 0000838b length    33 section .text
+start 0000838b end 00008394 length     9 section .text
+start 00008394 end 000083a1 length    13 section .text
+start 000083a1 end 000083b7 length    22 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 000083b7 end 000083bb length     4 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 000083bb end 000083c0 length     5 section .text
+
+Release\stm8l10x_usart.o:
+start 0000089b end 00000923 length   136 section .info.
+start 000083c0 end 000083df length    31 section .text
+start 000083df end 00008459 length   122 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 00008459 end 000084a1 length    72 section .text
+start 000084a1 end 000084a5 length     4 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 000084a5 end 000084a9 length     4 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 000084a9 end 000084c7 length    30 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\stm8l10x_wfe.o:
+start 00000923 end 000009a9 length   134 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\cc1101.o:
+start 000009a9 end 00000a29 length   128 section .info.
+start 00008084 end 000080ba length    54 section .const
+start ******** end ******** length     0 section .text *** removed ***
+start 000084c7 end 000084fa length    51 section .text
+start 000084fa end 0000854e length    84 section .text
+start 0000854e end 00008581 length    51 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start 00008581 end 000085a7 length    38 section .text
+start 000085a7 end 000085d3 length    44 section .text
+start 000085d3 end 00008618 length    69 section .text
+start 00008618 end 0000863f length    39 section .text
+start 0000863f end 00008679 length    58 section .text
+start 00008679 end 0000867e length     5 section .text
+start 0000867e end 00008686 length     8 section .text
+start 00008686 end 0000868e length     8 section .text
+start 0000868e end 000086f2 length   100 section .text
+start 000086f2 end 000086fa length     8 section .text
+start 000086fa end 00008711 length    23 section .text
+start 00008711 end 00008725 length    20 section .text
+start 00008725 end 00008776 length    81 section .text
+start 00008776 end 000087cb length    85 section .text
+
+Release\main.o:
+start 00000000 end 00000001 length     1 section .bsct
+start ******** end ******** length     0 section .ubsct *** removed ***
+start 00000a29 end 00000aa7 length   126 section .info.
+start 000087cb end 0000881b length    80 section .text
+start 0000881b end 00008837 length    28 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 00008837 end 00008843 length    12 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start 00008843 end 00008858 length    21 section .text
+start 00008858 end 0000887b length    35 section .text
+start 0000887b end 0000889c length    33 section .text
+start 0000889c end 000088aa length    14 section .text
+start 000088aa end 000088cf length    37 section .text
+start 000088cf end 00008927 length    88 section .text
+start 00008927 end 0000896d length    70 section .text
+start 000080ba end 00008136 length   124 section .const
+start 0000896d end 00008a05 length   152 section .text
+
+Release\stm8l10x_it.o:
+start ******** end ******** length     0 section .bsct *** removed ***
+start 00000aa7 end 00000b2c length   133 section .info.
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start ******** end ******** length     0 section .text *** removed ***
+start 00008a05 end 00008a26 length    33 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start 00008a26 end 00008a42 length    28 section .text
+start 00008a42 end 00008a61 length    31 section .text
+start ******** end ******** length     0 section .text *** removed ***
+
+Release\usart.o:
+start 00000001 end 00000006 length     5 section .bsct
+start 00000032 end 00000067 length    53 section .ubsct
+start 00000b2c end 00000bab length   127 section .info.
+start 00008a61 end 00008a8a length    41 section .text
+start 00008a8a end 00008ab6 length    44 section .text
+start 00008ab6 end 00008ad3 length    29 section .text
+start 00008ad3 end 00008afc length    41 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start 00008afc end 00008b36 length    58 section .text
+start ******** end ******** length     0 section .text *** removed ***
+start 00008b36 end 00008b51 length    27 section .text
+start 00008b51 end 00008b6c length    27 section .text
+start 00008b6c end 00008b75 length     9 section .text
+start 00008b75 end 00008bc6 length    81 section .text
+
+Release\yy.o:
+start 00000006 end 00000028 length    34 section .bsct
+start 00000bab end 00000c27 length   124 section .info.
+start 00008bc6 end 00008bee length    40 section .text
+start 00008bee end 00008cc2 length   212 section .text
+start 00008cc2 end 00008cd9 length    23 section .text
+start 00008cd9 end 00008d07 length    46 section .text
+start 00008d07 end 00008d47 length    64 section .text
+start 00008d47 end 00008d8c length    69 section .text
+start 00008d8c end 00008dd1 length    69 section .text
+start 00008136 end 00008139 length     3 section .const
+start 00008dd1 end 00008e49 length   120 section .text
+start 00008e49 end 00008e5a length    17 section .text
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)malloc.o:
+start 00008e5a end 00008fe5 length   395 section .text
+start 00000028 end 00000030 length     8 section .bsct
+start 00000c27 end 00000c9b length   116 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)printf.o:
+start 00008fe5 end 00008ff5 length    16 section .text
+start 00000c9b end 00000d0f length   116 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)cprint.o:
+start 00008ff5 end 00009522 length  1325 section .text
+start 00000d0f end 00000d83 length   116 section .info.
+start 00008139 end 00008172 length    57 section .const
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)itob.o:
+start 00009522 end 00009632 length   272 section .text
+start 00000d83 end 00000df5 length   114 section .info.
+start 00008172 end 00008197 length    37 section .const
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)idiv0.o:
+start 00009632 end 0000963d length    11 section .text
+start 00000df5 end 00000e21 length    44 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)ildiv0.o:
+start 0000963d end 00009658 length    27 section .text
+start 00000e21 end 00000e4e length    45 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)sbreak.o:
+start 00009658 end 00009682 length    42 section .text
+start 00000030 end 00000032 length     2 section .bsct
+start 00000e4e end 00000ec2 length   116 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)sprnt.o:
+start 00009682 end 00009696 length    20 section .text
+start 00000ec2 end 00000f35 length   115 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)strlen0.o:
+start 00009696 end 000096a2 length    12 section .text
+start 00000f35 end 00000f63 length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)toup0.o:
+start 000096a2 end 000096ad length    11 section .text
+start 00000f63 end 00000f8f length    44 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ldiv.o:
+start 000096ad end 00009798 length   235 section .text
+start 00000f8f end 00000fbd length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)imul.o:
+start 00009798 end 000097b9 length    33 section .text
+start 00000fbd end 00000feb length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lcmp.o:
+start ******** end ******** length     0 section .text *** removed ***
+start 00000feb end 00001019 length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lgneg.o:
+start 000097b9 end 000097cc length    19 section .text
+start 00001019 end 00001048 length    47 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lgsbc.o:
+start ******** end ******** length     0 section .text *** removed ***
+start 00001048 end 00001077 length    47 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)llsh.o:
+start ******** end ******** length     0 section .text *** removed ***
+start 00001077 end 000010a5 length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lmul.o:
+start ******** end ******** length     0 section .text *** removed ***
+start 000010a5 end 000010d3 length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lneg.o:
+start 000097cc end 000097e1 length    21 section .text
+start 000010d3 end 00001101 length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lreg.o:
+start 00000067 end 0000006b length     4 section .ubsct
+start 00001101 end 0000112f length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ltor.o:
+start 000097e1 end 000097f3 length    18 section .text
+start 0000112f end 0000115d length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ludiv.o:
+start 000097f3 end 00009807 length    20 section .text
+start 0000115d end 0000118c length    47 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lursh.o:
+start 00009807 end 00009816 length    15 section .text
+start 0000118c end 000011bb length    47 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lzmp.o:
+start 00009816 end 00009828 length    18 section .text
+start 000011bb end 000011e9 length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)rtol.o:
+start 00009828 end 0000983a length    18 section .text
+start 000011e9 end 00001217 length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)sdivx.o:
+start 0000983a end 00009865 length    43 section .text
+start 00001217 end 00001246 length    47 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)smul.o:
+start ******** end ******** length     0 section .text *** removed ***
+start 00001246 end 00001274 length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)utol.o:
+start ******** end ******** length     0 section .text *** removed ***
+start 00001274 end 000012a2 length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)utolx.o:
+start ******** end ******** length     0 section .text *** removed ***
+start 000012a2 end 000012d1 length    47 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)xreg.o:
+start 0000006b end 0000006e length     3 section .ubsct
+start 000012d1 end 000012ff length    46 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)xymvx.o:
+start 00009865 end 00009874 length    15 section .text
+start 000012ff end 0000132e length    47 section .info.
+
+(D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)yreg.o:
+start 0000006e end 00000071 length     3 section .ubsct
+start 0000132e end 0000135c length    46 section .info.
+
+Release\stm8_interrupt_vector.o:
+start 0000135c end 000013eb length   143 section .info.
+start 00009874 end 00009875 length     1 section .text
+start 00008000 end 00008080 length   128 section .const
+
+
+                             -----------
+                             Stack usage
+                             -----------
+
+Release\cc1101.o:
+_CC1101ClrRXBuff                13   (2)
+_CC1101ClrTXBuff                13   (2)
+_CC1101GetRXCnt                 12   (2)
+_CC1101Init                     18   (3)
+_CC1101ReadMultiReg             14   (8)
+_CC1101ReadReg                  10   (4)
+_CC1101ReadStatus               10   (4)
+_CC1101RecPacket                25   (11)
+_CC1101Reset                    12   (3)
+_CC1101SendPacket               20   (7)
+_CC1101SetAddress               15   (5)
+_CC1101SetIdle                  11   (2)
+_CC1101SetSYNC                  14   (4)
+_CC1101SetTRMode                13   (3)
+_CC1101WriteCmd                  9   (3)
+_CC1101WriteMultiReg            13   (7)
+_CC1101WriteReg                 10   (4)
+
+Release\main.o:
+_Delay                           4   (4)
+_HexToString                    98   (10)
+_IWDG_Config                     4   (2)
+_RfType                        105   (7)
+_SPI_ExchangeByte                6   (3)
+_SPI_Initial                    11   (2)
+_main                       >  121   (16)
+_rf_get_rssi                     7   (5)
+_wait_rf                        12   (3)
+_wait_rf_hight                   9   (4)
+_wait_rf_low                     9   (4)
+
+Release\stm8_interrupt_vector.o:
+f_NonHandledInterrupt       >    5   (5)
+
+Release\stm8l10x_clk.o:
+_CLK_GetClockFreq               25   (11)
+_CLK_MasterPrescalerConfig       3   (3)
+_CLK_PeripheralClockConfig       4   (4)
+
+Release\stm8l10x_gpio.o:
+_GPIO_ExternalPullUpConfig       6   (6)
+_GPIO_Init                       6   (6)
+_GPIO_ReadInputDataBit           5   (5)
+_GPIO_ResetBits                  5   (5)
+_GPIO_SetBits                    5   (5)
+
+Release\stm8l10x_it.o:
+f_TIM4_UPD_OVF_IRQHandler   >   39   (11)
+f_USART_RX_IRQHandler       >   20   (11)
+f_USART_TX_IRQHandler       >   21   (11)
+
+Release\stm8l10x_iwdg.o:
+_IWDG_Enable                     2   (2)
+_IWDG_ReloadCounter              2   (2)
+_IWDG_SetPrescaler               2   (2)
+_IWDG_SetReload                  2   (2)
+_IWDG_WriteAccessCmd             2   (2)
+
+Release\stm8l10x_spi.o:
+_SPI_Cmd                         2   (2)
+_SPI_DeInit                      2   (2)
+_SPI_GetFlagStatus               3   (3)
+_SPI_Init                        9   (9)
+_SPI_ReceiveData                 2   (2)
+_SPI_SendData                    2   (2)
+
+Release\stm8l10x_tim4.o:
+_TIM4_ClearITPendingBit          2   (2)
+_TIM4_Cmd                        2   (2)
+_TIM4_DeInit                     2   (2)
+_TIM4_ITConfig                   4   (4)
+_TIM4_SetCounter                 2   (2)
+_TIM4_TimeBaseInit               2   (2)
+
+Release\stm8l10x_usart.o:
+_USART_DeInit                    2   (2)
+_USART_GetFlagStatus             5   (5)
+_USART_ITConfig                  7   (7)
+_USART_Init                     39   (14)
+_USART_ReceiveData8              2   (2)
+_USART_SendData8                 2   (2)
+
+Release\usart.o:
+_UART1_process                  10   (3)
+_USART_Config                   41   (2)
+_USART_SendStr                   9   (4)
+_put_txbuff                      5   (3)
+_putchar                        13   (3)
+_txbuf_getchar                   5   (5)
+_uart0_putchar                  10   (3)
+_uart_sendmultchar              18   (8)
+_usart_rx_handler                9   (3)
+
+Release\yy.o:
+L3_TIM4_Config                   6   (2)
+_get_key1                        5   (5)
+_get_key2                        5   (5)
+_key_init                        8   (2)
+_key_scan                       24   (6)
+_key_work                       26   (2)
+_time4_handle                   28   (2)
+_yy_init                        10   (2)
+_yy_start                        6   (6)
+
+D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8:
+L11__cvtup                       8   (6)
+L31__putbuf                     22   (9)
+L7__gnum                        19   (16)
+__print                         74   (51)
+__udiv                           4   (4)
+__uldiv                          6   (6)
+__itob                          19   (15)
+__ltob                          23   (17)
+L11__addheap                    22   (6)
+L32__hmerge                      8   (8)
+__breakup                        8   (8)
+_free                           16   (8)
+_malloc                         30   (8)
+_printf                         86   (12)
+_sbreak                          6   (6)
+_sprintf                        88   (14)
+_strlen                          2   (2)
+_toupper                         2   (2)
+
+Stack size: 160
+
+
+                              ---------
+                              Call tree
+                              ---------
+   1 > __stext: (0)
+
+   2 > _main: (16)
+   3      + _CC1101ClrRXBuff: (2)
+   4      |    + _CC1101SetIdle: (2)
+   5      |    |    + _CC1101WriteCmd: (3)
+   6      |    |    |    + _GPIO_ReadInputDataBit: (5)
+   7      |    |    |    + _GPIO_ResetBits: (5)
+   8      |    |    |    + _GPIO_SetBits: (5)
+   9      |    |    |    + _SPI_ExchangeByte: (3)
+  10      |    |    |    |    + _SPI_GetFlagStatus: (3)
+  11      |    |    |    |    + _SPI_ReceiveData: (2)
+  12      |    |    |    |    + _SPI_SendData: (2)
+          |    |    |    | 
+          |    |    | 
+          |    | 
+  13      |    + _CC1101WriteCmd --> 5
+          | 
+  14      + _CC1101Init: (3)
+  15      |    + _CC1101ReadStatus: (4)
+  16      |    |    + _GPIO_ReadInputDataBit --> 6
+  17      |    |    + _GPIO_ResetBits --> 7
+  18      |    |    + _GPIO_SetBits --> 8
+  19      |    |    + _SPI_ExchangeByte --> 9
+          |    | 
+  20      |    + _CC1101Reset: (3)
+  21      |    |    + _CC1101WriteCmd --> 5
+  22      |    |    + _GPIO_ReadInputDataBit --> 6
+  23      |    |    + _GPIO_ResetBits --> 7
+  24      |    |    + _GPIO_SetBits --> 8
+          |    | 
+  25      |    + _CC1101SetAddress: (5)
+  26      |    |    + _CC1101ReadReg: (4)
+  27      |    |    |    + _GPIO_ReadInputDataBit --> 6
+  28      |    |    |    + _GPIO_ResetBits --> 7
+  29      |    |    |    + _GPIO_SetBits --> 8
+  30      |    |    |    + _SPI_ExchangeByte --> 9
+          |    |    | 
+  31      |    |    + _CC1101WriteReg: (4)
+  32      |    |    |    + _GPIO_ReadInputDataBit --> 6
+  33      |    |    |    + _GPIO_ResetBits --> 7
+  34      |    |    |    + _GPIO_SetBits --> 8
+  35      |    |    |    + _SPI_ExchangeByte --> 9
+          |    |    | 
+          |    | 
+  36      |    + _CC1101SetSYNC: (4)
+  37      |    |    + _CC1101WriteReg --> 31
+          |    | 
+  38      |    + _CC1101WriteMultiReg: (7)
+  39      |    |    + _GPIO_ReadInputDataBit --> 6
+  40      |    |    + _GPIO_ResetBits --> 7
+  41      |    |    + _GPIO_SetBits --> 8
+  42      |    |    + _SPI_ExchangeByte --> 9
+          |    | 
+  43      |    + _CC1101WriteReg --> 31
+          | 
+  44      + _CC1101ReadStatus --> 15
+  45      + _CC1101RecPacket: (11)
+  46      |    + _CC1101ClrRXBuff --> 3
+  47      |    + _CC1101GetRXCnt: (2)
+  48      |    |    + _CC1101ReadStatus --> 15
+          |    | 
+  49      |    + _CC1101ReadMultiReg: (8)
+  50      |    |    + _GPIO_ReadInputDataBit --> 6
+  51      |    |    + _GPIO_ResetBits --> 7
+  52      |    |    + _GPIO_SetBits --> 8
+  53      |    |    + _SPI_ExchangeByte --> 9
+          |    | 
+  54      |    + _CC1101ReadReg --> 26
+          | 
+  55      + _CC1101SendPacket: (7)
+  56      |    + _CC1101ClrTXBuff: (2)
+  57      |    |    + _CC1101SetIdle --> 4
+  58      |    |    + _CC1101WriteCmd --> 5
+          |    | 
+  59      |    + _CC1101ReadReg --> 26
+  60      |    + _CC1101SetTRMode: (3)
+  61      |    |    + _CC1101WriteCmd --> 5
+  62      |    |    + _CC1101WriteReg --> 31
+          |    | 
+  63      |    + _CC1101WriteMultiReg --> 38
+  64      |    + _CC1101WriteReg --> 31
+  65      |    + _GPIO_ReadInputDataBit --> 6
+          | 
+  66      + _CC1101SetTRMode --> 60
+  67      + _CLK_MasterPrescalerConfig: (3)
+  68      + _Delay: (4)
+  69      + _IWDG_Config: (2)
+  70      |    + _IWDG_Enable: (2)
+  71      |    + _IWDG_ReloadCounter: (2)
+  72      |    + _IWDG_SetPrescaler: (2)
+  73      |    + _IWDG_SetReload: (2)
+  74      |    + _IWDG_WriteAccessCmd: (2)
+          | 
+  75      + _IWDG_ReloadCounter --> 71
+  76      + _RfType: (7)
+  77      |    + _HexToString: (10)
+  78      |    |    + _USART_SendStr: (4)
+  79      |    |    |    + _USART_GetFlagStatus: (5)
+  80      |    |    |    + _USART_SendData8: (2)
+          |    |    | 
+  81      |    |    + _malloc: (8)
+  82      |    |    |    + L11__addheap: (6)
+  83      |    |    |    |    + _free: (8)
+  84      |    |    |    |    |    + L32__hmerge: (8)
+          |    |    |    |    | 
+          |    |    |    | 
+  85      |    |    |    + __breakup: (8)
+  86      |    |    |    + _sbreak: (6)
+          |    |    | 
+  87      |    |    + _sprintf: (14)
+  88      |    |    |    + __print: (51)
+  89      |    |    |    |    + L11__cvtup: (6)
+  90      |    |    |    |    |    + _toupper: (2)
+          |    |    |    |    | 
+  91      |    |    |    |    + L31__putbuf: (9)
+  92      |    |    |    |    |    + _putchar: (3)
+  93      |    |    |    |    |    |    + _uart0_putchar: (3)
+  94      |    |    |    |    |    |    |    + _USART_GetFlagStatus --> 79
+  95      |    |    |    |    |    |    |    + _USART_ITConfig: (7)
+  96      |    |    |    |    |    |    |    + _USART_SendData8 --> 80
+  97      |    |    |    |    |    |    |    + _put_txbuff: (3)
+          |    |    |    |    |    |    | 
+          |    |    |    |    |    | 
+          |    |    |    |    | 
+  98      |    |    |    |    + L7__gnum: (16)
+  99      |    |    |    |    + __itob: (15)
+ 100      |    |    |    |    |    + __udiv: (4)
+          |    |    |    |    | 
+ 101      |    |    |    |    + __ltob: (17)
+ 102      |    |    |    |    |    + __uldiv: (6)
+          |    |    |    |    | 
+ 103      |    |    |    |    + _strlen: (2)
+          |    |    |    | 
+          |    |    | 
+          |    | 
+ 104      |    + _USART_SendStr --> 78
+          | 
+ 105      + _SPI_Initial: (2)
+ 106      |    + _CLK_PeripheralClockConfig: (4)
+ 107      |    + _GPIO_Init: (6)
+ 108      |    + _SPI_Cmd: (2)
+ 109      |    + _SPI_DeInit: (2)
+ 110      |    + _SPI_Init: (9)
+          | 
+ 111      + _USART_Config: (2)
+ 112      |    + _CLK_MasterPrescalerConfig --> 67
+ 113      |    + _CLK_PeripheralClockConfig --> 106
+ 114      |    + _GPIO_ExternalPullUpConfig: (6)
+ 115      |    + _USART_DeInit: (2)
+ 116      |    + _USART_ITConfig --> 95
+ 117      |    + _USART_Init: (14)
+ 118      |    |    + _CLK_GetClockFreq: (11)
+          |    | 
+          | 
+ 119      + _printf: (12)
+ 120      |    + __print --> 88
+          | 
+ 121      + _rf_get_rssi: (5)
+ 122      + _wait_rf: (3)
+ 123      |    + _wait_rf_hight: (4)
+ 124      |    |    + _GPIO_ReadInputDataBit --> 6
+          |    | 
+ 125      |    + _wait_rf_low: (4)
+ 126      |    |    + _GPIO_ReadInputDataBit --> 6
+          |    | 
+          | 
+ 127      + _yy_init: (2)
+ 128      |    + L3_TIM4_Config: (2)
+ 129      |    |    + _CLK_PeripheralClockConfig --> 106
+ 130      |    |    + _TIM4_Cmd: (2)
+ 131      |    |    + _TIM4_DeInit: (2)
+ 132      |    |    + _TIM4_ITConfig: (4)
+ 133      |    |    + _TIM4_SetCounter: (2)
+ 134      |    |    + _TIM4_TimeBaseInit: (2)
+          |    | 
+ 135      |    + _GPIO_Init --> 107
+ 136      |    + _GPIO_ResetBits --> 7
+ 137      |    + _key_init: (2)
+ 138      |    |    + _GPIO_Init --> 107
+          |    | 
+          | 
+       
+ 139 > f_NonHandledInterrupt: (5)
+
+ 140 > f_TIM4_UPD_OVF_IRQHandler: (11)
+ 141      + _TIM4_ClearITPendingBit: (2)
+ 142      + _time4_handle: (2)
+ 143      |    + _GPIO_ReadInputDataBit --> 6
+ 144      |    + _GPIO_ResetBits --> 7
+ 145      |    + _GPIO_SetBits --> 8
+ 146      |    + _key_work: (2)
+ 147      |    |    + _key_scan: (6)
+ 148      |    |    |    + _get_key1: (5)
+ 149      |    |    |    + _get_key2: (5)
+ 150      |    |    |    + _uart_sendmultchar: (8)
+ 151      |    |    |    |    + _uart0_putchar --> 93
+          |    |    |    | 
+          |    |    | 
+          |    | 
+          | 
+       
+ 152 > f_USART_RX_IRQHandler: (11)
+ 153      + _USART_ReceiveData8: (2)
+ 154      + _usart_rx_handler: (3)
+ 155      |    + _yy_start: (6)
+          | 
+       
+ 156 > f_USART_TX_IRQHandler: (11)
+ 157      + _UART1_process: (3)
+ 158      |    + _USART_ITConfig --> 95
+ 159      |    + _USART_SendData8 --> 80
+ 160      |    + _txbuf_getchar: (5)
+          | 
+       
+ 161   L11__addheap --> 82
+
+ 162   L11__cvtup --> 89
+
+ 163   L31__putbuf --> 91
+
+ 164   L32__hmerge --> 84
+
+ 165   L3_TIM4_Config --> 128
+
+ 166   L7__gnum --> 98
+
+ 167   _CC1101ClrRXBuff --> 3
+
+ 168   _CC1101ClrTXBuff --> 56
+
+ 169   _CC1101GetRXCnt --> 47
+
+ 170   _CC1101Init --> 14
+
+ 171   _CC1101ReadMultiReg --> 49
+
+ 172   _CC1101ReadReg --> 26
+
+ 173   _CC1101ReadStatus --> 15
+
+ 174   _CC1101RecPacket --> 45
+
+ 175   _CC1101Reset --> 20
+
+ 176   _CC1101SendPacket --> 55
+
+ 177   _CC1101SetAddress --> 25
+
+ 178   _CC1101SetIdle --> 4
+
+ 179   _CC1101SetSYNC --> 36
+
+ 180   _CC1101SetTRMode --> 60
+
+ 181   _CC1101WriteCmd --> 5
+
+ 182   _CC1101WriteMultiReg --> 38
+
+ 183   _CC1101WriteReg --> 31
+
+ 184   _CLK_GetClockFreq --> 118
+
+ 185   _CLK_MasterPrescalerConfig --> 67
+
+ 186   _CLK_PeripheralClockConfig --> 106
+
+ 187   _Delay --> 68
+
+ 188   _GPIO_ExternalPullUpConfig --> 114
+
+ 189   _GPIO_Init --> 107
+
+ 190   _GPIO_ReadInputDataBit --> 6
+
+ 191   _GPIO_ResetBits --> 7
+
+ 192   _GPIO_SetBits --> 8
+
+ 193   _HexToString --> 77
+
+ 194   _IWDG_Config --> 69
+
+ 195   _IWDG_Enable --> 70
+
+ 196   _IWDG_ReloadCounter --> 71
+
+ 197   _IWDG_SetPrescaler --> 72
+
+ 198   _IWDG_SetReload --> 73
+
+ 199   _IWDG_WriteAccessCmd --> 74
+
+ 200   _RfType --> 76
+
+ 201   _SPI_Cmd --> 108
+
+ 202   _SPI_DeInit --> 109
+
+ 203   _SPI_ExchangeByte --> 9
+
+ 204   _SPI_GetFlagStatus --> 10
+
+ 205   _SPI_Init --> 110
+
+ 206   _SPI_Initial --> 105
+
+ 207   _SPI_ReceiveData --> 11
+
+ 208   _SPI_SendData --> 12
+
+ 209   _TIM4_ClearITPendingBit --> 141
+
+ 210   _TIM4_Cmd --> 130
+
+ 211   _TIM4_DeInit --> 131
+
+ 212   _TIM4_ITConfig --> 132
+
+ 213   _TIM4_SetCounter --> 133
+
+ 214   _TIM4_TimeBaseInit --> 134
+
+ 215   _UART1_process --> 157
+
+ 216   _USART_Config --> 111
+
+ 217   _USART_DeInit --> 115
+
+ 218   _USART_GetFlagStatus --> 79
+
+ 219   _USART_ITConfig --> 95
+
+ 220   _USART_Init --> 117
+
+ 221   _USART_ReceiveData8 --> 153
+
+ 222   _USART_SendData8 --> 80
+
+ 223   _USART_SendStr --> 78
+
+ 224   __breakup --> 85
+
+ 225   __itob --> 99
+
+ 226   __ltob --> 101
+
+ 227   __print --> 88
+
+ 228   __udiv --> 100
+
+ 229   __uldiv --> 102
+
+ 230   _free --> 83
+
+ 231   _get_key1 --> 148
+
+ 232   _get_key2 --> 149
+
+ 233   _key_init --> 137
+
+ 234   _key_scan --> 147
+
+ 235   _key_work --> 146
+
+ 236   _malloc --> 81
+
+ 237   _printf --> 119
+
+ 238   _put_txbuff --> 97
+
+ 239   _putchar --> 92
+
+ 240   _rf_get_rssi --> 121
+
+ 241   _sbreak --> 86
+
+ 242   _sprintf --> 87
+
+ 243   _strlen --> 103
+
+ 244   _time4_handle --> 142
+
+ 245   _toupper --> 90
+
+ 246   _txbuf_getchar --> 160
+
+ 247   _uart0_putchar --> 93
+
+ 248   _uart_sendmultchar --> 150
+
+ 249   _usart_rx_handler --> 154
+
+ 250   _wait_rf --> 122
+
+ 251   _wait_rf_hight --> 123
+
+ 252   _wait_rf_low --> 125
+
+ 253   _yy_init --> 127
+
+ 254   _yy_start --> 155
+
+
+
+                               -------
+                               Symbols
+                               -------
+
+_APR_Array                          ********   *** removed from Release\stm8l10x_awu.o ***
+_AWU_Cmd                            ********   *** removed from Release\stm8l10x_awu.o ***
+_AWU_DeInit                         ********   *** removed from Release\stm8l10x_awu.o ***
+_AWU_GetFlagStatus                  ********   *** removed from Release\stm8l10x_awu.o ***
+_AWU_IdleModeEnable                 ********   *** removed from Release\stm8l10x_awu.o ***
+_AWU_Init                           ********   *** removed from Release\stm8l10x_awu.o ***
+_AWU_LSICalibrationConfig           ********   *** removed from Release\stm8l10x_awu.o ***
+_AllDeInit                          ********   *** removed from Release\main.o ***
+_BEEP_Cmd                           ********   *** removed from Release\stm8l10x_beep.o ***
+_BEEP_DeInit                        ********   *** removed from Release\stm8l10x_beep.o ***
+_BEEP_Init                          ********   *** removed from Release\stm8l10x_beep.o ***
+_BEEP_LSICalibrationConfig          ********   *** removed from Release\stm8l10x_beep.o ***
+_CC1101ClrRXBuff                    00008686   defined in Release\cc1101.o section .text
+                                               used in Release\main.o
+_CC1101ClrTXBuff                    0000867e   defined in Release\cc1101.o section .text
+_CC1101GetRXCnt                     000086f2   defined in Release\cc1101.o section .text
+_CC1101Init                         00008776   defined in Release\cc1101.o section .text
+                                               used in Release\main.o
+_CC1101ReadMultiReg                 000084fa   defined in Release\cc1101.o section .text
+_CC1101ReadReg                      000084c7   defined in Release\cc1101.o section .text
+_CC1101ReadStatus                   0000854e   defined in Release\cc1101.o section .text
+                                               used in Release\main.o
+_CC1101RecPacket                    00008725   defined in Release\cc1101.o section .text
+                                               used in Release\main.o
+_CC1101Reset                        0000863f   defined in Release\cc1101.o section .text
+_CC1101SendPacket                   0000868e   defined in Release\cc1101.o section .text
+                                               used in Release\main.o
+_CC1101SetAddress                   000086fa   defined in Release\cc1101.o section .text
+_CC1101SetIdle                      00008679   defined in Release\cc1101.o section .text
+_CC1101SetSYNC                      00008711   defined in Release\cc1101.o section .text
+_CC1101SetTRMode                    00008581   defined in Release\cc1101.o section .text
+                                               used in Release\main.o
+_CC1101Sleep                        ********   *** removed from Release\cc1101.o ***
+_CC1101WORInit                      ********   *** removed from Release\cc1101.o ***
+_CC1101WriteCmd                     00008618   defined in Release\cc1101.o section .text
+_CC1101WriteMultiReg                000085d3   defined in Release\cc1101.o section .text
+_CC1101WriteReg                     000085a7   defined in Release\cc1101.o section .text
+_CLK_CCOCmd                         ********   *** removed from Release\stm8l10x_clk.o ***
+_CLK_CCOConfig                      ********   *** removed from Release\stm8l10x_clk.o ***
+_CLK_DeInit                         ********   *** removed from Release\stm8l10x_clk.o ***
+_CLK_GetClockFreq                   00008242   defined in Release\stm8l10x_clk.o section .text
+                                               used in Release\stm8l10x_i2c.o
+                                                       Release\stm8l10x_usart.o
+_CLK_MasterPrescalerConfig          00008232   defined in Release\stm8l10x_clk.o section .text
+                                               used in Release\main.o
+                                                       Release\usart.o
+_CLK_PeripheralClockConfig          0000821c   defined in Release\stm8l10x_clk.o section .text
+                                               used in Release\main.o
+                                                       Release\usart.o
+                                                       Release\yy.o
+_COMP_ClearFlag                     ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_ClearITPendingBit             ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_Cmd                           ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_DeInit                        ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_GetFlagStatus                 ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_GetITStatus                   ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_GetOutputStatus               ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_ITConfig                      ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_Init                          ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_SelectPolarity                ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_SelectionConfig               ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_SetReference                  ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_SwitchConfig                  ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_TIM2Config                    ********   *** removed from Release\stm8l10x_comp.o ***
+_COMP_TIMConnect                    ********   *** removed from Release\stm8l10x_comp.o ***
+_Count                              00000025   defined in Release\yy.o section .bsct, initialized
+_Delay                              00008837   defined in Release\main.o section .text
+_EXTI_ClearITPendingBit             ********   *** removed from Release\stm8l10x_exti.o ***
+_EXTI_DeInit                        ********   *** removed from Release\stm8l10x_exti.o ***
+_EXTI_GetHalfPortSelection          ********   *** removed from Release\stm8l10x_exti.o ***
+_EXTI_GetITStatus                   ********   *** removed from Release\stm8l10x_exti.o ***
+_EXTI_GetPinSensitivity             ********   *** removed from Release\stm8l10x_exti.o ***
+_EXTI_GetPortSensitivity            ********   *** removed from Release\stm8l10x_exti.o ***
+_EXTI_Init                          ********   *** removed from Release\main.o ***
+_EXTI_SetHalfPortSelection          ********   *** removed from Release\stm8l10x_exti.o ***
+_EXTI_SetPinSensitivity             ********   *** removed from Release\stm8l10x_exti.o ***
+_EXTI_SetPortSensitivity            ********   *** removed from Release\stm8l10x_exti.o ***
+_FLASH_DeInit                       ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_EraseBlock                   ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_EraseByte                    ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_GetBootSize                  ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_GetDataSize                  ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_GetFlagStatus                ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_GetProgrammingTime           ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_GetReadOutProtectionStatus   ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_ITConfig                     ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_Lock                         ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_ProgramBlock                 ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_ProgramByte                  ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_ProgramWord                  ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_ReadByte                     ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_SetProgrammingTime           ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_Unlock                       ********   *** removed from Release\stm8l10x_flash.o ***
+_FLASH_WaitForLastOperation         ********   *** removed from Release\stm8l10x_flash.o ***
+_GPIO_DeInit                        ********   *** removed from Release\stm8l10x_gpio.o ***
+_GPIO_ExternalPullUpConfig          000082e1   defined in Release\stm8l10x_gpio.o section .text
+                                               used in Release\usart.o
+_GPIO_Init                          0000827d   defined in Release\stm8l10x_gpio.o section .text
+                                               used in Release\main.o
+                                                       Release\yy.o
+_GPIO_ReadInputData                 ********   *** removed from Release\stm8l10x_gpio.o ***
+_GPIO_ReadInputDataBit              000082da   defined in Release\stm8l10x_gpio.o section .text
+                                               used in Release\cc1101.o
+                                                       Release\main.o
+                                                       Release\yy.o
+_GPIO_ReadOutputData                ********   *** removed from Release\stm8l10x_gpio.o ***
+_GPIO_ReadOutputDataBit             ********   *** removed from Release\stm8l10x_gpio.o ***
+_GPIO_ResetBits                     000082d2   defined in Release\stm8l10x_gpio.o section .text
+                                               used in Release\cc1101.o
+                                                       Release\yy.o
+_GPIO_SetBits                       000082cb   defined in Release\stm8l10x_gpio.o section .text
+                                               used in Release\cc1101.o
+                                                       Release\yy.o
+_GPIO_ToggleBits                    ********   *** removed from Release\stm8l10x_gpio.o ***
+_GPIO_Write                         ********   *** removed from Release\stm8l10x_gpio.o ***
+_GPIO_WriteBit                      ********   *** removed from Release\stm8l10x_gpio.o ***
+_HSIDivFactor                       00008080   defined in Release\stm8l10x_clk.o section .const
+_HexToString                        000088cf   defined in Release\main.o section .text
+_I2C_AckPositionConfig              ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_AcknowledgeConfig              ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_CheckEvent                     ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_ClearFlag                      ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_ClearITPendingBit              ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_Cmd                            ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_DeInit                         ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_FastModeDutyCycleConfig        ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_GeneralCallCmd                 ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_GenerateSTART                  ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_GenerateSTOP                   ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_GetFlagStatus                  ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_GetITStatus                    ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_GetLastEvent                   ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_ITConfig                       ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_Init                           ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_ReceiveData                    ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_Send7bitAddress                ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_SendData                       ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_SoftwareResetCmd               ********   *** removed from Release\stm8l10x_i2c.o ***
+_I2C_StretchClockCmd                ********   *** removed from Release\stm8l10x_i2c.o ***
+_IRTIM_Cmd                          ********   *** removed from Release\stm8l10x_irtim.o ***
+_IRTIM_DeInit                       ********   *** removed from Release\stm8l10x_irtim.o ***
+_IRTIM_GetHighSinkODStatus          ********   *** removed from Release\stm8l10x_irtim.o ***
+_IRTIM_GetStatus                    ********   *** removed from Release\stm8l10x_irtim.o ***
+_IRTIM_HighSinkODCmd                ********   *** removed from Release\stm8l10x_irtim.o ***
+_ITC_DeInit                         ********   *** removed from Release\stm8l10x_itc.o ***
+_ITC_GetCPUCC                       ********   *** removed from Release\stm8l10x_itc.o ***
+_ITC_GetSoftIntStatus               ********   *** removed from Release\stm8l10x_itc.o ***
+_ITC_GetSoftwarePriority            ********   *** removed from Release\stm8l10x_itc.o ***
+_ITC_SetSoftwarePriority            ********   *** removed from Release\stm8l10x_itc.o ***
+_IWDG_Config                        00008843   defined in Release\main.o section .text
+_IWDG_Enable                        00008308   defined in Release\stm8l10x_iwdg.o section .text
+                                               used in Release\main.o
+_IWDG_ReloadCounter                 00008303   defined in Release\stm8l10x_iwdg.o section .text
+                                               used in Release\main.o
+_IWDG_SetPrescaler                  000082fb   defined in Release\stm8l10x_iwdg.o section .text
+                                               used in Release\main.o
+_IWDG_SetReload                     000082ff   defined in Release\stm8l10x_iwdg.o section .text
+                                               used in Release\main.o
+_IWDG_WriteAccessCmd                000082f7   defined in Release\stm8l10x_iwdg.o section .text
+                                               used in Release\main.o
+_LEDInit                            ********   *** removed from Release\main.o ***
+_PaTabel                            00008084   defined in Release\cc1101.o section .const
+_RST_ClearFlag                      ********   *** removed from Release\stm8l10x_rst.o ***
+_RST_GPOutputEnable                 ********   *** removed from Release\stm8l10x_rst.o ***
+_RST_GetFlagStatus                  ********   *** removed from Release\stm8l10x_rst.o ***
+_RfType                             00008927   defined in Release\main.o section .text
+_SPI_BiDirectionalLineConfig        ********   *** removed from Release\stm8l10x_spi.o ***
+_SPI_ClearFlag                      ********   *** removed from Release\stm8l10x_spi.o ***
+_SPI_ClearITPendingBit              ********   *** removed from Release\stm8l10x_spi.o ***
+_SPI_Cmd                            0000834a   defined in Release\stm8l10x_spi.o section .text
+                                               used in Release\main.o
+_SPI_DeInit                         0000830d   defined in Release\stm8l10x_spi.o section .text
+                                               used in Release\main.o
+_SPI_ExchangeByte                   0000881b   defined in Release\main.o section .text
+                                               used in Release\cc1101.o
+_SPI_GetFlagStatus                  0000835f   defined in Release\stm8l10x_spi.o section .text
+                                               used in Release\main.o
+_SPI_GetITStatus                    ********   *** removed from Release\stm8l10x_spi.o ***
+_SPI_ITConfig                       ********   *** removed from Release\stm8l10x_spi.o ***
+_SPI_Init                           0000831e   defined in Release\stm8l10x_spi.o section .text
+                                               used in Release\main.o
+_SPI_Initial                        000087cb   defined in Release\main.o section .text
+_SPI_NSSInternalSoftwareCmd         ********   *** removed from Release\stm8l10x_spi.o ***
+_SPI_ReceiveData                    0000835b   defined in Release\stm8l10x_spi.o section .text
+                                               used in Release\main.o
+_SPI_SendData                       00008357   defined in Release\stm8l10x_spi.o section .text
+                                               used in Release\main.o
+_TBR_Array                          ********   *** removed from Release\stm8l10x_awu.o ***
+_TIM2_ARRPreloadConfig              ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_BKRConfig                     ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_CCxCmd                        ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_ClearFlag                     ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_ClearITPendingBit             ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_Cmd                           ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_ComputeLsiClockFreq           ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_CounterModeConfig             ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_CtrlPWMOutputs                ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_DeInit                        ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_ETRClockMode1Config           ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_ETRClockMode2Config           ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_ETRConfig                     ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_EncoderInterfaceConfig        ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_ForcedOC1Config               ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_ForcedOC2Config               ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_GenerateEvent                 ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_GetCapture1                   ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_GetCapture2                   ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_GetCounter                    ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_GetFlagStatus                 ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_GetITStatus                   ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_GetPrescaler                  ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_GetStatus                     ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_ICInit                        ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_ITConfig                      ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_InternalClockConfig           ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_OC1FastCmd                    ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_OC1Init                       ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_OC1PolarityConfig             ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_OC1PreloadConfig              ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_OC2FastCmd                    ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_OC2Init                       ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_OC2PolarityConfig             ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_OC2PreloadConfig              ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_PWMIConfig                    ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_PrescalerConfig               ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SelectHallSensor              ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SelectInputTrigger            ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SelectMasterSlaveMode         ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SelectOCxM                    ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SelectOnePulseMode            ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SelectOutputTrigger           ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SelectSlaveMode               ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SetAutoreload                 ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SetCompare1                   ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SetCompare2                   ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SetCounter                    ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SetIC1Prescaler               ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_SetIC2Prescaler               ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_TIxExternalClockConfig        ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_TimeBaseInit                  ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_UpdateDisableConfig           ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM2_UpdateRequestConfig           ********   *** removed from Release\stm8l10x_tim2.o ***
+_TIM3_ARRPreloadConfig              ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_BKRConfig                     ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_CCxCmd                        ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_ClearFlag                     ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_ClearITPendingBit             ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_Cmd                           ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_CounterModeConfig             ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_CtrlPWMOutputs                ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_DeInit                        ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_ETRClockMode1Config           ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_ETRClockMode2Config           ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_ETRConfig                     ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_EncoderInterfaceConfig        ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_ForcedOC1Config               ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_ForcedOC2Config               ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_GenerateEvent                 ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_GetCapture1                   ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_GetCapture2                   ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_GetCounter                    ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_GetFlagStatus                 ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_GetITStatus                   ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_GetPrescaler                  ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_GetStatus                     ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_ICInit                        ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_ITConfig                      ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_InternalClockConfig           ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_OC1FastCmd                    ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_OC1Init                       ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_OC1PolarityConfig             ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_OC1PreloadConfig              ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_OC2FastCmd                    ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_OC2Init                       ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_OC2PolarityConfig             ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_OC2PreloadConfig              ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_PWMIConfig                    ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_PrescalerConfig               ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SelectHallSensor              ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SelectInputTrigger            ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SelectMasterSlaveMode         ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SelectOCxM                    ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SelectOnePulseMode            ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SelectOutputTrigger           ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SelectSlaveMode               ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SetAutoreload                 ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SetCompare1                   ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SetCompare2                   ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SetCounter                    ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SetIC1Prescaler               ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_SetIC2Prescaler               ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_TIxExternalClockConfig        ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_TimeBaseInit                  ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_UpdateDisableConfig           ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM3_UpdateRequestConfig           ********   *** removed from Release\stm8l10x_tim3.o ***
+_TIM4_ARRPreloadConfig              ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_ClearFlag                     ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_ClearITPendingBit             000083bb   defined in Release\stm8l10x_tim4.o section .text
+                                               used in Release\stm8l10x_it.o
+_TIM4_Cmd                           00008394   defined in Release\stm8l10x_tim4.o section .text
+                                               used in Release\yy.o
+_TIM4_DeInit                        0000836a   defined in Release\stm8l10x_tim4.o section .text
+                                               used in Release\yy.o
+_TIM4_GenerateEvent                 ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_GetCounter                    ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_GetFlagStatus                 ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_GetITStatus                   ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_GetPrescaler                  ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_GetStatus                     ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_ITConfig                      000083a1   defined in Release\stm8l10x_tim4.o section .text
+                                               used in Release\yy.o
+_TIM4_InternalClockConfig           ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_PrescalerConfig               ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_SelectInputTrigger            ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_SelectMasterSlaveMode         ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_SelectOnePulseMode            ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_SelectOutputTrigger           ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_SelectSlaveMode               ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_SetAutoreload                 ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_SetCounter                    000083b7   defined in Release\stm8l10x_tim4.o section .text
+                                               used in Release\yy.o
+_TIM4_TimeBaseInit                  0000838b   defined in Release\stm8l10x_tim4.o section .text
+                                               used in Release\yy.o
+_TIM4_UpdateDisableConfig           ********   *** removed from Release\stm8l10x_tim4.o ***
+_TIM4_UpdateRequestConfig           ********   *** removed from Release\stm8l10x_tim4.o ***
+_Trg                                00000024   defined in Release\yy.o section .bsct, initialized
+_UART1_process                      00008ab6   defined in Release\usart.o section .text
+                                               used in Release\stm8l10x_it.o
+_USART_ClearFlag                    ********   *** removed from Release\stm8l10x_usart.o ***
+_USART_ClearITPendingBit            ********   *** removed from Release\stm8l10x_usart.o ***
+_USART_ClockInit                    ********   *** removed from Release\stm8l10x_usart.o ***
+_USART_Cmd                          ********   *** removed from Release\stm8l10x_usart.o ***
+_USART_Config                       00008afc   defined in Release\usart.o section .text
+                                               used in Release\main.o
+_USART_DeInit                       000083c0   defined in Release\stm8l10x_usart.o section .text
+                                               used in Release\usart.o
+_USART_GetFlagStatus                000084a9   defined in Release\stm8l10x_usart.o section .text
+                                               used in Release\usart.o
+_USART_GetITStatus                  ********   *** removed from Release\stm8l10x_usart.o ***
+_USART_ITConfig                     00008459   defined in Release\stm8l10x_usart.o section .text
+                                               used in Release\usart.o
+_USART_Init                         000083df   defined in Release\stm8l10x_usart.o section .text
+                                               used in Release\usart.o
+_USART_ReceiveData8                 000084a1   defined in Release\stm8l10x_usart.o section .text
+                                               used in Release\stm8l10x_it.o
+_USART_ReceiveData9                 ********   *** removed from Release\stm8l10x_usart.o ***
+_USART_ReceiverWakeUpCmd            ********   *** removed from Release\stm8l10x_usart.o ***
+_USART_SendBreak                    ********   *** removed from Release\stm8l10x_usart.o ***
+_USART_SendData8                    000084a5   defined in Release\stm8l10x_usart.o section .text
+                                               used in Release\usart.o
+_USART_SendData9                    ********   *** removed from Release\stm8l10x_usart.o ***
+_USART_SendStr                      00008b51   defined in Release\usart.o section .text
+                                               used in Release\main.o
+_USART_SetAddress                   ********   *** removed from Release\stm8l10x_usart.o ***
+_USART_WakeUpConfig                 ********   *** removed from Release\stm8l10x_usart.o ***
+_WFE_DeInit                         ********   *** removed from Release\stm8l10x_wfe.o ***
+_WFE_GetWakeUpSourceEventStatus     ********   *** removed from Release\stm8l10x_wfe.o ***
+_WFE_WakeUpSourceEventCmd           ********   *** removed from Release\stm8l10x_wfe.o ***
+__breakup                           00008e8e   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)malloc.o section .text
+__endmem                            000003fe   defined in command file
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)sbreak.o
+__endzp                             00000071   defined in command file section .ubsct
+                                               used in D:\Program Files\COSMIC\CXSTM8_32K\Lib\crtsi0.sm8
+__heap                              0000002e   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)malloc.o section .bsct, initialized
+__idesc__                           00008197   defined in linker section .init
+                                               used in D:\Program Files\COSMIC\CXSTM8_32K\Lib\crtsi0.sm8
+__itob                              00009522   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)itob.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)cprint.o
+__ltob                              0000959c   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)itob.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)cprint.o
+__memory                            00000100   defined in command file section .bss
+                                               used in D:\Program Files\COSMIC\CXSTM8_32K\Lib\crtsi0.sm8
+__print                             000090ef   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)cprint.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)printf.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)sprnt.o
+__stack                             000005ff   defined in command file
+                                               used in D:\Program Files\COSMIC\CXSTM8_32K\Lib\crtsi0.sm8
+__startmem                          00000100   defined in command file section .bss
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)sbreak.o
+__stext                             000081d1   defined in D:\Program Files\COSMIC\CXSTM8_32K\Lib\crtsi0.sm8 section .text
+                                               used in Release\stm8_interrupt_vector.o
+__udiv                              00009632   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)idiv0.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)itob.o
+__uldiv                             0000963d   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)ildiv0.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)itob.o
+__vectab                            00008000   defined in Release\stm8_interrupt_vector.o section .const
+                                               *** not used ***
+_b_Enter                            ********   *** removed from Release\stm8l10x_it.o ***
+_buf                                00000032   defined in Release\usart.o section .ubsct
+_exit                               0000821a   defined in D:\Program Files\COSMIC\CXSTM8_32K\Lib\crtsi0.sm8 section .text
+_free                               00008f00   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)malloc.o section .text
+_get_key1                           00008d8c   defined in Release\yy.o section .text
+_get_key2                           00008d47   defined in Release\yy.o section .text
+_get_serial                         ********   *** removed from Release\main.o ***
+_key_init                           00008cc2   defined in Release\yy.o section .text
+_key_scan                           00008dd1   defined in Release\yy.o section .text
+_key_work                           00008e49   defined in Release\yy.o section .text
+_len                                00000046   defined in Release\usart.o section .ubsct
+_main                               0000896d   defined in Release\main.o section .text
+                                               used in D:\Program Files\COSMIC\CXSTM8_32K\Lib\crtsi0.sm8
+_malloc                             00008f52   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)malloc.o section .text
+                                               used in Release\main.o
+_nr_cnt                             0000001f   defined in Release\yy.o section .bsct, initialized
+_op                                 00000007   defined in Release\yy.o section .bsct, initialized
+_printf                             00008fe5   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)printf.o section .text
+                                               used in Release\main.o
+_put_txbuff                         00008a8a   defined in Release\usart.o section .text
+_putchar                            00008b6c   defined in Release\usart.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)cprint.o
+_rev_flag                           ********   *** removed from Release\main.o ***
+_rf_exti                            ********   *** removed from Release\main.o ***
+_rf_get_rssi                        000088aa   defined in Release\main.o section .text
+_rx_stats                           00000004   defined in Release\usart.o section .bsct, initialized
+_s_cnt                              00000009   defined in Release\yy.o section .bsct, initialized
+_sbreak                             00009658   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)sbreak.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)malloc.o
+_scan_cnt                           00000026   defined in Release\yy.o section .bsct, initialized
+_set_serial                         ********   *** removed from Release\main.o ***
+_sprintf                            00009682   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)sprnt.o section .text
+                                               used in Release\main.o
+_strlen                             00009696   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)strlen0.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)cprint.o
+_sys_cnt                            00000000   defined in Release\main.o section .bsct, initialized
+_time4_handle                       00008bee   defined in Release\yy.o section .text
+                                               used in Release\stm8l10x_it.o
+_toupper                            000096a2   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)toup0.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)cprint.o
+_tx_auto                            00000003   defined in Release\usart.o section .bsct, initialized
+_tx_buffer                          00000047   defined in Release\usart.o section .ubsct
+_tx_rd_index                        00000002   defined in Release\usart.o section .bsct, initialized
+_tx_wr_index                        00000001   defined in Release\usart.o section .bsct, initialized
+_txbuf_getchar                      00008a61   defined in Release\usart.o section .text
+_uart0_putchar                      00008ad3   defined in Release\usart.o section .text
+_uart0_putstr                       ********   *** removed from Release\usart.o ***
+_uart_sendchar                      ********   *** removed from Release\usart.o ***
+_uart_sendmultchar                  00008b36   defined in Release\usart.o section .text
+                                               used in Release\yy.o
+_usart_rx_handler                   00008b75   defined in Release\usart.o section .text
+                                               used in Release\stm8l10x_it.o
+_wait_rf                            0000889c   defined in Release\main.o section .text
+_wait_rf_hight                      0000887b   defined in Release\main.o section .text
+_wait_rf_low                        00008858   defined in Release\main.o section .text
+_yy                                 00000008   defined in Release\yy.o section .bsct, initialized
+_yy_cnt                             0000001e   defined in Release\yy.o section .bsct, initialized
+_yy_init                            00008cd9   defined in Release\yy.o section .text
+                                               used in Release\main.o
+_yy_nr                              0000000a   defined in Release\yy.o section .bsct, initialized
+_yy_start                           00008d07   defined in Release\yy.o section .text
+                                               used in Release\usart.o
+_yy_stats                           00000006   defined in Release\yy.o section .bsct, initialized
+c_divsl                             000096ad   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ldiv.o section .text
+                                               *** not used ***
+c_divul                             000096c4   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ldiv.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)ildiv0.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ludiv.o
+c_imul                              00009798   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)imul.o section .text
+                                               used in Release\stm8l10x_awu.o
+                                                       Release\stm8l10x_beep.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)cprint.o
+c_lcmp                              ********   *** removed from (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lcmp.o ***
+c_lgneg                             000097b9   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lgneg.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ldiv.o
+c_lgsbc                             ********   *** removed from (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lgsbc.o ***
+c_llsh                              ********   *** removed from (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)llsh.o ***
+c_lmul                              ********   *** removed from (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lmul.o ***
+c_lmulc                             ********   *** removed from (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lmul.o ***
+c_lneg                              000097cc   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lneg.o section .text
+                                               used in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)itob.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ldiv.o
+c_lreg                              00000067   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lreg.o section .ubsct
+                                               used in Release\stm8l10x_awu.o
+                                                       Release\stm8l10x_beep.o
+                                                       Release\stm8l10x_clk.o
+                                                       Release\stm8l10x_i2c.o
+                                                       Release\stm8l10x_usart.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)cprint.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ldiv.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lcmp.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)llsh.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lmul.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lneg.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ltor.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lursh.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)rtol.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)smul.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)utol.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)utolx.o
+c_ltor                              000097e1   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ltor.o section .text
+                                               used in Release\stm8l10x_awu.o
+                                                       Release\stm8l10x_beep.o
+                                                       Release\stm8l10x_clk.o
+                                                       Release\stm8l10x_i2c.o
+                                                       Release\stm8l10x_tim2.o
+                                                       Release\stm8l10x_usart.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)itob.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)ildiv0.o
+c_ludv                              000097f3   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ludiv.o section .text
+                                               used in Release\stm8l10x_awu.o
+                                                       Release\stm8l10x_beep.o
+                                                       Release\stm8l10x_clk.o
+                                                       Release\stm8l10x_i2c.o
+                                                       Release\stm8l10x_tim2.o
+                                                       Release\stm8l10x_usart.o
+c_lursh                             00009807   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lursh.o section .text
+                                               used in Release\stm8l10x_usart.o
+c_lzmp                              00009816   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lzmp.o section .text
+                                               used in Release\stm8l10x_flash.o
+                                                       Release\stm8l10x_i2c.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)itob.o
+c_rtol                              00009828   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)rtol.o section .text
+                                               used in Release\stm8l10x_clk.o
+                                                       Release\stm8l10x_i2c.o
+                                                       Release\stm8l10x_tim2.o
+                                                       Release\stm8l10x_usart.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)cprint.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)itob.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)ildiv0.o
+c_sdivx                             00009840   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)sdivx.o section .text
+                                               used in Release\stm8l10x_i2c.o
+                                                       Release\main.o
+c_smodx                             0000983a   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)sdivx.o section .text
+                                               used in Release\usart.o
+c_smul                              ********   *** removed from (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)smul.o ***
+c_uitol                             ********   *** removed from (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)utol.o ***
+c_uitolx                            ********   *** removed from (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)utolx.o ***
+c_x                                 0000006b   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)xreg.o section .ubsct
+                                               used in D:\Program Files\COSMIC\CXSTM8_32K\Lib\crtsi0.sm8
+                                                       Release\stm8l10x_awu.o
+                                                       Release\stm8l10x_beep.o
+                                                       Release\main.o
+                                                       Release\stm8l10x_it.o
+                                                       Release\yy.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)strlen0.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)ldiv.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)imul.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)lmul.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)sdivx.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)xymvx.o
+c_xymvx                             00009865   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)xymvx.o section .text
+                                               used in Release\main.o
+                                                       Release\yy.o
+c_y                                 0000006e   defined in (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libm0.sm8)yreg.o section .ubsct
+                                               used in D:\Program Files\COSMIC\CXSTM8_32K\Lib\crtsi0.sm8
+                                                       Release\stm8l10x_it.o
+                                                       Release\usart.o
+                                                       (D:\Program Files\COSMIC\CXSTM8_32K\Lib\libis0.sm8)malloc.o
+f_AWU_IRQHandler                    ********   *** removed from Release\stm8l10x_it.o ***
+f_COMP_IRQHandler                   ********   *** removed from Release\stm8l10x_it.o ***
+f_EXTI0_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_EXTI1_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_EXTI2_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_EXTI3_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_EXTI4_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_EXTI5_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_EXTI6_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_EXTI7_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_EXTIB_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_EXTID_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_FLASH_IRQHandler                  ********   *** removed from Release\stm8l10x_it.o ***
+f_I2C_IRQHandler                    ********   *** removed from Release\stm8l10x_it.o ***
+f_NonHandledInterrupt               00009874   defined in Release\stm8_interrupt_vector.o section .text
+f_SPI_IRQHandler                    ********   *** removed from Release\stm8l10x_it.o ***
+f_TIM2_CAP_IRQHandler               ********   *** removed from Release\stm8l10x_it.o ***
+f_TIM2_UPD_OVF_TRG_BRK_IRQHandler   ********   *** removed from Release\stm8l10x_it.o ***
+f_TIM3_CAP_IRQHandler               ********   *** removed from Release\stm8l10x_it.o ***
+f_TIM3_UPD_OVF_TRG_BRK_IRQHandler   ********   *** removed from Release\stm8l10x_it.o ***
+f_TIM4_UPD_OVF_IRQHandler           00008a05   defined in Release\stm8l10x_it.o section .text
+                                               used in Release\stm8_interrupt_vector.o
+f_TRAP_IRQHandler                   ********   *** removed from Release\stm8l10x_it.o ***
+f_USART_RX_IRQHandler               00008a42   defined in Release\stm8l10x_it.o section .text
+                                               used in Release\stm8_interrupt_vector.o
+f_USART_TX_IRQHandler               00008a26   defined in Release\stm8l10x_it.o section .text
+                                               used in Release\stm8_interrupt_vector.o
