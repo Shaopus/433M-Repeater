@@ -61,7 +61,7 @@ String.100.2=STM8 Cosmic
 String.100.3=ST7 Metrowerks V1.1
 String.100.4=Raisonance
 String.101.0=STM8 Cosmic
-String.102.0=D:\Program Files\COSMIC\CXSTM8_32K
+String.102.0=
 String.103.0=
 String.104.0=Hstm8
 String.105.0=Lib
@@ -135,14 +135,14 @@ String.2.0=Performing Custom Build on $(InputFile)
 String.6.0=2014,11,11,13,40,42
 
 [Root.Config.1.Settings.0]
-String.6.0=2016,4,12,13,48,25
+String.6.0=2016,4,13,16,55,4
 String.100.0=ST Assembler Linker
 String.100.1=ST7 Cosmic
 String.100.2=STM8 Cosmic
 String.100.3=ST7 Metrowerks V1.1
 String.100.4=Raisonance
 String.101.0=STM8 Cosmic
-String.102.0=D:\Program Files\COSMIC\CXSTM8_32K
+String.102.0=C:\Program Files (x86)\COSMIC\CXSTM8_32K
 String.103.0=
 String.104.0=Hstm8
 String.105.0=Lib

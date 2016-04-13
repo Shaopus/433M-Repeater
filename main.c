@@ -198,6 +198,7 @@ void HexToString(u8* buf,u8 size,u8 len)
 	USART_SendStr("ID:");
 	USART_SendStr(data);
 	USART_SendStr(" ");
+	free(data);
 }
 void RfType(u8* buf,u8 size,u8 len)
 {
